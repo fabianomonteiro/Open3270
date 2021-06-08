@@ -1,6 +1,6 @@
 # Welcome
 
-*Open3270 provides a high level API to connect to mainframe 3270 sessions from a .NET application.*
+*Open3270 provides a high level API to connect to mainframe 3270 sessions from a .NET Framework, .NET Core and .NET 5+ applications.*
 
 ## Key features include
 
@@ -15,4 +15,4 @@
 
 ## Install via NuGet
 
-    Install-Package Open3270
+    Install-Package Open3270.NETStandard
