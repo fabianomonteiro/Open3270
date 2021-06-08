@@ -5,15 +5,17 @@
     <AssemblyName>Open3270</AssemblyName>
     <RootNamespace>Open3270</RootNamespace>
     <PackageId>Open3270.NETStandard</PackageId>
-    <Description>A TN3270 library for .Net applications</Description>
-    <Copyright>Copyright � 2004-2017 Michael Warriner. All rights reserved. Released under the terms of the GNU Lesser General Public License as published by the Free Software Foundation.</Copyright>
+    <Description>Open3270.NETStandard provides a high level API to connect to mainframe 3270 sessions from a .NET Framework, .NET Core and .NET 5+ applications.</Description>
+    <Copyright>Copyright © 2004-2021 Michael Warriner. All rights reserved. Released under the terms of the MIT License as published by the Free Software Foundation.</Copyright>
     <PackageProjectUrl>https://github.com/fabianomonteiro/Open3270</PackageProjectUrl>
     <RepositoryUrl>https://github.com/fabianomonteiro/Open3270</RepositoryUrl>
     <PackageReleaseNotes>Migrate to .NET Standard</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Fabiano Monteiro</Authors>
-    <Company>Flash Tecnologia</Company>
+    <Company></Company>
+    <Version>1.0.0.2</Version>
+    <AssemblyVersion>1.0.0.2</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
