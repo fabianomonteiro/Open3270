@@ -1,5 +1,6 @@
 ﻿using System;
 using Open3270;
+using Xunit;
 
 namespace Test3rdPartyServers
 {
@@ -8,6 +9,8 @@ namespace Test3rdPartyServers
 		public Test3279()
 		{
 		}
+
+		[Fact]
 		public void Run()
 		{
 			TNEmulator emulator = new TNEmulator();
